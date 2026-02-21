@@ -1,1 +1,1 @@
-"# maths_statistics_pogodaeva" 
+# maths_statistics_pogodaeva
